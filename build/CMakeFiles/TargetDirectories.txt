@@ -1,0 +1,2 @@
+/home/rwy/project/chat/ChatServer/build/src/client/CMakeFiles/ChatClient.dir
+/home/rwy/project/chat/ChatServer/build/src/server/CMakeFiles/ChatServer.dir
